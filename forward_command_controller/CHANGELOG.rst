@@ -2,6 +2,14 @@
 Changelog for package forward_command_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.0 (2022-01-24)
+------------------
+* Bugfix 🏎: Reset and test of command buffer for forwarding controllers. (backport `#246 <https://github.com/ros-controls/ros2_controllers/issues/246>`_) (`#287 <https://github.com/ros-controls/ros2_controllers/issues/287>`_)
+* Contributors: Denis Štogl, Bence Magyar
+
+0.6.0 (2022-01-11)
+------------------
+
 0.5.1 (2021-10-25)
 ------------------
 
